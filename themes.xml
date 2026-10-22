@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Plain" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>
